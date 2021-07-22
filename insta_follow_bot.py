@@ -5,8 +5,8 @@ import time
 
 chrome_driver_path = "C:\Develop\chromedriver.exe"
 
-EMAIL = "rassss932@gmail.com"
-PASSWORD = "Litmus10."
+EMAIL = "Email"
+PASSWORD = "Password"
 SIMILAR_ACCOUNT = "modern.architect"
 
 class InstaFollower:
